@@ -1,4 +1,4 @@
-If you are looking for a small scale, cost effective, water balance lysimeter - you've come to the right place!
+Precision Weighing Lysimeter: High Precision and Cost-Effective Solution for Soil Water Drainage and Evaporation Studies
 
 I am freely giving away my innovative design for a lysimeter used to measure bare soil evaporation.
 
