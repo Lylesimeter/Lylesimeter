@@ -1,4 +1,4 @@
-Precision Weighing Lysimeter: High Precision and Cost-Effective Solution for Soil Water Drainage and Evaporation Studies
+# Precision Weighing Lysimeter: High Precision and Cost-Effective Solution for Soil Water Drainage and Evaporation Studies
 
 I am freely giving away my innovative design for a lysimeter used to measure bare soil evaporation.
 
@@ -10,8 +10,9 @@ This repository includes all of the details needed to build you own lysimeter.  
 
 
 # Quick Links to Useful Information
-* [Excel Spreadsheets of Mechanical Advantages](https://github.com/Lylesimeter/Lysimeter-design)
-* [Drawings of Single Beam](https://github.com/Lylesimeter/Mechanical-Drawings---DB)
-
+* [Excel Spreadsheets of Lysimeter Design Criteria](https://github.com/Lylesimeter/Lysimeter-design)
+* [Mechanical Drawings of Double Beam Lylsimeter](https://github.com/Lylesimeter/Mechanical-Drawings---DB)
+* [Mechanical Drawings of Single Beam Lylsimeter](https://github.com/Lylesimeter/Mechanical-Drawings---SB)
+* [Code for Datalogger and CNC](https://github.com/Lylesimeter/Code)
 
 If you have questions, contact Brad Lyles - bradflyles AT gmail
