@@ -17,5 +17,6 @@ This repository includes all of the details needed to build you own lysimeter.  
 * [Code for CNC Plasma](https://github.com/Lylesimeter/G-Code)
 * [Lysimeter Calibration Spreadsheet Example](https://github.com/Lylesimeter/calibration)
 * [Post-processing Spreadsheet Example](https://github.com/Lylesimeter/Post-processing-Examples)
+* [Installation Photos](https://github.com/Lylesimeter/Installation_Photos)
 
 If you have questions, contact Brad Lyles - bradflyles AT gmail
