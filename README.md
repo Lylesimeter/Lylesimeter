@@ -8,6 +8,7 @@ The DB1818 is a lysimeter with a double beam balance and an 18-nch diameter by 1
 
 This repository includes all of the details needed to build you own lysimeter.  Design details for the single beam and double beam balances are included in seperate spreadsheets, where it is possible to fine-tune the design based on soil characteristics, soil tank volume and beam lever arm mechanical advantage.  Also available are the CAD mechanical drawing including AutoCad .dwg, .dxf and .pdf files.  Some components are made from plate steel that is cut used a CNC cutting mashines; G-code for the CNC-Plasma is included.  Dataloggers are used to measure the output from the electronic loadcell and variaous other sensors (soil moisture sensors, type-T thermocouples, fluid level transducer, and submersible pump control).  Example code for variaous Campbell Scienfic dataloggers is included.
 
+A manuscript describing a case study using two DB1818 lysimeters has been published in Senors Journal https://www.mdpi.com/1424-8220/24/7/2039 and a .pdf of the article can be found [link to article](https://github.com/Lylesimeter/Post-processing-Examples)
 
 ## Quick Links to Useful Information
 * [Excel Spreadsheets of Lysimeter Design Criteria](https://github.com/Lylesimeter/Lysimeter-design)
